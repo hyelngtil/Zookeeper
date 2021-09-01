@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: val numbers = // put your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7866#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    main.kt:8:9: error: unresolved reference: numbers
+    println(numbers.joinToString())
+            ^
+  time: Tue, 31 Aug 2021 19:54:41 UTC
+record: -1
